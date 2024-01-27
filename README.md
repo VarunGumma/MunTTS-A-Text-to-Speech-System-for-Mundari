@@ -3,11 +3,13 @@ A Text-to-Speech System for Mundari (Accepted at [ComputEL-7](https://computel-w
 
 ## Artifacts
  - Paper: _Coming soon ..._
- - Data: [here](https://github.com/karya-inc/dataset-mundari-tts)
  - Models: _Coming soon ..._
  - Code: _Coming soon ..._
+ - Data: [here](https://github.com/karya-inc/dataset-mundari-tts)
  - Reference Codebase: [here](https://github.com/AI4Bharat/Indic-TTS)
  - Framework: [here](https://github.com/coqui-ai/TTS)
+
+**NOTE:** The dataset provided here is a sample. Please contact [Karya](https://karya.in/) for the full dataset and usage license.
 
 ## Karya LICENSE (KPL)
 **Attribution-NonCommercial-ShareAlike-FreeSoftware (BY-NC-SA-FS) 1.0**
